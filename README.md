@@ -1,1 +1,1 @@
-# blender-projects
+# Blender Projects
